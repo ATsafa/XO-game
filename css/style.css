@@ -5,7 +5,7 @@
 }
 :root {
     --yellow: rgb(213, 213, 70);
-    --winning-blocks: #2d414b;
+    --winning-blocks: #861ab4;
 }
 body {
     color: var(--yellow);
